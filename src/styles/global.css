@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+
+body{
+    background: #10274b;
+    color: #f2f2f2;
+    min-height: 100vh;
+}
+
+
+button{
+    cursor: pointer;
+}
